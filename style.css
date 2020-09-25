@@ -1,0 +1,19 @@
+h1{
+    font-family: Arial, serif;
+}
+#italic{
+    font-family: serif;
+}
+#normal{
+    font-family: sans-serif;
+}
+#oblique{
+    font-family: Helvetica, fantasy;
+}
+#inherit{
+    font-family: cursive;
+}
+#initial{
+    font-family: monospace;
+}
+
